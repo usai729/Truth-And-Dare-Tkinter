@@ -10,6 +10,3 @@ First create a *.py* file named anything like `truths_dares_list.py` then enter 
 t = []
 d = []
 ```
-
-I'll update the code 
-where it'll be using requests module to fetch truths and dares
